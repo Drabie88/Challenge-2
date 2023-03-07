@@ -21,10 +21,8 @@ This website was developed to load my portfolio. This webbsite displays my full 
 
 ## Screen Shots
 
-<img src=assets\images\Screenshot.png>
-<img src=assets\images\Screenshot-2.png>
+## Credits![Screenshot](https://user-images.githubusercontent.com/123333467/223567208-4022a262-4076-44c6-b4a4-190b0e43b2eb.png)
 
-## Credits
 
 N/A
 
