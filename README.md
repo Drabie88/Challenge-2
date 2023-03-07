@@ -19,7 +19,10 @@ N/A
 
 This website was developed to load my portfolio. This webbsite displays my full name and recent photo and a section about myself as well as contact information.
 
+## Screen Shots
 
+<img src=assets\images\Screenshot.png>
+<img src=assets\images\Screenshot-2.png>
 
 ## Credits
 
@@ -28,5 +31,4 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-
 
