@@ -17,7 +17,7 @@ N/A
 
 ## Description
 
-A study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, git, and JavaScript.
+This website was developed to load my portfolio. This webbsite displays my full name and recent photo and a section about myself as well as contact information.
 
 
 
